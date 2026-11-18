@@ -1,0 +1,6 @@
+{
+  "name": "Chess Analyzer",
+  "description": "Полноценное веб-приложение для анализа шахматных партий со Stockfish UCI, импортом партий с Chess.com, определением дебютов ECO и расчётом точности.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
